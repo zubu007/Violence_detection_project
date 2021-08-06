@@ -1,0 +1,6 @@
+Flask
+tensorflow.keras.models
+numpy
+opencv-python
+tqdm
+gunicorn
