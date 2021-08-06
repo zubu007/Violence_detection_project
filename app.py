@@ -3,7 +3,7 @@ from flask import Flask, render_template, request, redirect, url_for, abort, sen
 from werkzeug.utils import secure_filename
 import cv2
 from tqdm import tqdm
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 import numpy as np
 
 app = Flask(__name__)
