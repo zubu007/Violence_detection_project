@@ -1,5 +1,5 @@
 Flask
-tensorflow.keras.models
+keras
 numpy
 opencv-python
 tqdm
